@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.Entities\bin\Debug\VU.Entities.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.Entities\bin\Debug\VU.Entities.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.Entities\obj\Debug\VU.Entities.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.Entities\obj\Debug\VU.Entities.pdb

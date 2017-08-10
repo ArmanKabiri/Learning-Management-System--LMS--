@@ -1,0 +1,58 @@
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.UIL\bin\VU.UIL.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.UIL\bin\Microsoft.AspNet.SignalR.Core.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.UIL\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.UIL\bin\Microsoft.Owin.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.UIL\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.UIL\bin\Microsoft.Owin.Security.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.UIL\bin\Newtonsoft.Json.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.UIL\bin\Owin.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.UIL\bin\NAudio.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.UIL\bin\NAudio.WindowsMediaFormat.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.UIL\bin\System.Net.Json.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.UIL\bin\VU.BLL.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.UIL\bin\VU.Entities.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.UIL\bin\libmp3lame.32.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.UIL\bin\NAudio.Lame.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.UIL\bin\VU.BLL.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.UIL\bin\VU.Entities.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.UIL\bin\Microsoft.AspNet.SignalR.Core.xml
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.UIL\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.UIL\bin\Microsoft.Owin.xml
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.UIL\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.UIL\bin\Microsoft.Owin.Security.xml
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.UIL\bin\NAudio.xml
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.UIL\bin\Newtonsoft.Json.xml
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.UIL\obj\Debug\VU.UIL.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.UIL\obj\Debug\VU.UIL.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.UIL\obj\Debug\VU.UIL.pdb
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\VUProject\VU.UIL\bin\libmp3lame.64.dll
+c:\Users\Administrator\Documents\Visual Studio 2012\Projects\VUProject\VU.UIL\bin\VU.UIL.pdb
+C:\Users\arman\Desktop\VUProject\VU.UIL\bin\libmp3lame.32.dll
+C:\Users\arman\Desktop\VUProject\VU.UIL\bin\libmp3lame.64.dll
+C:\Users\arman\Desktop\VUProject\VU.UIL\bin\VU.UIL.dll
+C:\Users\arman\Desktop\VUProject\VU.UIL\bin\VU.UIL.pdb
+C:\Users\arman\Desktop\VUProject\VU.UIL\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\arman\Desktop\VUProject\VU.UIL\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\arman\Desktop\VUProject\VU.UIL\bin\Microsoft.Owin.dll
+C:\Users\arman\Desktop\VUProject\VU.UIL\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\arman\Desktop\VUProject\VU.UIL\bin\Microsoft.Owin.Security.dll
+C:\Users\arman\Desktop\VUProject\VU.UIL\bin\NAudio.dll
+C:\Users\arman\Desktop\VUProject\VU.UIL\bin\NAudio.Lame.dll
+C:\Users\arman\Desktop\VUProject\VU.UIL\bin\NAudio.WindowsMediaFormat.dll
+C:\Users\arman\Desktop\VUProject\VU.UIL\bin\Newtonsoft.Json.dll
+C:\Users\arman\Desktop\VUProject\VU.UIL\bin\Owin.dll
+C:\Users\arman\Desktop\VUProject\VU.UIL\bin\System.Net.Json.dll
+C:\Users\arman\Desktop\VUProject\VU.UIL\bin\VU.BLL.dll
+C:\Users\arman\Desktop\VUProject\VU.UIL\bin\VU.Entities.dll
+C:\Users\arman\Desktop\VUProject\VU.UIL\bin\VU.BLL.pdb
+C:\Users\arman\Desktop\VUProject\VU.UIL\bin\VU.Entities.pdb
+C:\Users\arman\Desktop\VUProject\VU.UIL\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\arman\Desktop\VUProject\VU.UIL\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\arman\Desktop\VUProject\VU.UIL\bin\Microsoft.Owin.xml
+C:\Users\arman\Desktop\VUProject\VU.UIL\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\arman\Desktop\VUProject\VU.UIL\bin\Microsoft.Owin.Security.xml
+C:\Users\arman\Desktop\VUProject\VU.UIL\bin\NAudio.xml
+C:\Users\arman\Desktop\VUProject\VU.UIL\bin\Newtonsoft.Json.xml
+C:\Users\arman\Desktop\VUProject\VU.UIL\obj\Debug\VU.UIL.csprojResolveAssemblyReference.cache
+C:\Users\arman\Desktop\VUProject\VU.UIL\obj\Debug\VU.UIL.dll
+C:\Users\arman\Desktop\VUProject\VU.UIL\obj\Debug\VU.UIL.pdb

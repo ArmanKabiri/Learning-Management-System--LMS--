@@ -1,0 +1,12 @@
+﻿<xapCache source="C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\Bin\Debug\SilverlightSignalRTest.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="5/9/2015 10:40:32 AM">
+  <file source="C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\obj\Debug\SilverlightSignalRTest.dll" archivePath="SilverlightSignalRTest.dll" lastWriteTime="5/9/2015 10:40:31 AM" />
+  <file source="C:\Users\arman\Desktop\VUProject\packages\Microsoft.AspNet.SignalR.Client.2.2.0\lib\portable-net45+sl5+netcore45+wp8+wp81\Microsoft.AspNet.SignalR.Client.dll" archivePath="Microsoft.AspNet.SignalR.Client.dll" lastWriteTime="4/25/2015 8:10:18 PM" />
+  <file source="C:\Users\arman\Desktop\VUProject\packages\Newtonsoft.Json.6.0.4\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll" archivePath="Newtonsoft.Json.dll" lastWriteTime="4/25/2015 8:10:17 PM" />
+  <file source="C:\Users\arman\Desktop\VUProject\packages\Microsoft.Bcl.1.1.9\lib\sl5\System.IO.dll" archivePath="System.IO.dll" lastWriteTime="4/25/2015 8:10:17 PM" />
+  <file source="C:\Users\arman\Desktop\VUProject\packages\Microsoft.Net.Http.2.2.28\lib\portable-net40+sl4+win8+wp71+wpa81\System.Net.Http.dll" archivePath="System.Net.Http.dll" lastWriteTime="4/25/2015 8:10:18 PM" />
+  <file source="C:\Users\arman\Desktop\VUProject\packages\Microsoft.Net.Http.2.2.28\lib\portable-net40+sl4+win8+wp71+wpa81\System.Net.Http.Extensions.dll" archivePath="System.Net.Http.Extensions.dll" lastWriteTime="4/25/2015 8:10:18 PM" />
+  <file source="C:\Users\arman\Desktop\VUProject\packages\Microsoft.Net.Http.2.2.28\lib\portable-net40+sl4+win8+wp71+wpa81\System.Net.Http.Primitives.dll" archivePath="System.Net.Http.Primitives.dll" lastWriteTime="4/25/2015 8:10:18 PM" />
+  <file source="C:\Users\arman\Desktop\VUProject\packages\Microsoft.Bcl.1.1.9\lib\sl5\System.Runtime.dll" archivePath="System.Runtime.dll" lastWriteTime="4/25/2015 8:10:17 PM" />
+  <file source="C:\Users\arman\Desktop\VUProject\packages\Microsoft.Bcl.1.1.9\lib\sl5\System.Threading.Tasks.dll" archivePath="System.Threading.Tasks.dll" lastWriteTime="4/25/2015 8:10:17 PM" />
+  <file source="C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="5/3/2015 8:50:10 PM" />
+</xapCache>

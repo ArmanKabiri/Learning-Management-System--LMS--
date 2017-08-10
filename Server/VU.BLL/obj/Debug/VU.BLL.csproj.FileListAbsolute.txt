@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.BLL\bin\Debug\VU.BLL.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.BLL\bin\Debug\VU.BLL.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.BLL\bin\Debug\NAudio.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.BLL\bin\Debug\NAudio.WindowsMediaFormat.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.BLL\bin\Debug\VU.Entities.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.BLL\bin\Debug\VU.Entities.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.BLL\obj\Debug\VU.BLL.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.BLL\obj\Debug\VU.BLL.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\VU.BLL\obj\Debug\VU.BLL.pdb

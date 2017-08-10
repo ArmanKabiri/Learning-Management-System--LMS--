@@ -1,0 +1,55 @@
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\SilverlightSignalRTest\Bin\Debug\SilverlightSignalRTest.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\SilverlightSignalRTest\Bin\Debug\SilverlightSignalRTest.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\SilverlightSignalRTest\Bin\Debug\AppManifest.xaml
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\SilverlightSignalRTest\Bin\Debug\SilverlightSignalRTest.xap
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\SilverlightSignalRTest\Bin\Debug\SilverlightSignalRTestTestPage.html
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\SilverlightSignalRTest\Bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\SilverlightSignalRTest\Bin\Debug\Newtonsoft.Json.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\SilverlightSignalRTest\Bin\Debug\System.IO.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\SilverlightSignalRTest\Bin\Debug\System.Net.Http.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\SilverlightSignalRTest\Bin\Debug\System.Net.Http.Extensions.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\SilverlightSignalRTest\Bin\Debug\System.Net.Http.Primitives.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\SilverlightSignalRTest\Bin\Debug\System.Runtime.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\SilverlightSignalRTest\Bin\Debug\System.Threading.Tasks.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\SilverlightSignalRTest\Bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\SilverlightSignalRTest\Bin\Debug\Newtonsoft.Json.xml
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\SilverlightSignalRTest\Bin\Debug\System.IO.xml
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\SilverlightSignalRTest\Bin\Debug\System.Net.Http.xml
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\SilverlightSignalRTest\Bin\Debug\System.Net.Http.Extensions.xml
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\SilverlightSignalRTest\Bin\Debug\System.Net.Http.Primitives.xml
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\SilverlightSignalRTest\Bin\Debug\System.Runtime.xml
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\SilverlightSignalRTest\Bin\Debug\System.Threading.Tasks.xml
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\SilverlightSignalRTest\obj\Debug\App.g.cs
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\SilverlightSignalRTest\obj\Debug\MainPage.g.cs
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\SilverlightSignalRTest\obj\Debug\SilverlightSignalRTest.g.resources
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\SilverlightSignalRTest\obj\Debug\SilverlightSignalRTest.dll
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\SilverlightSignalRTest\obj\Debug\SilverlightSignalRTest.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\VUProject\SilverlightSignalRTest\obj\Debug\XapCacheFile.xml
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\obj\Debug\SilverlightSignalRTest.csprojResolveAssemblyReference.cache
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\obj\Debug\App.g.cs
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\obj\Debug\MainPage.g.cs
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\obj\Debug\SilverlightSignalRTest.g.resources
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\Bin\Debug\SilverlightSignalRTest.dll
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\Bin\Debug\SilverlightSignalRTest.pdb
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\Bin\Debug\AppManifest.xaml
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\Bin\Debug\SilverlightSignalRTest.xap
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\Bin\Debug\SilverlightSignalRTestTestPage.html
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\Bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\Bin\Debug\System.IO.dll
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\Bin\Debug\System.Net.Http.dll
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\Bin\Debug\System.Runtime.dll
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\Bin\Debug\System.Threading.Tasks.dll
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\Bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\Bin\Debug\System.IO.xml
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\Bin\Debug\System.Net.Http.xml
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\Bin\Debug\System.Runtime.xml
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\Bin\Debug\System.Threading.Tasks.xml
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\obj\Debug\SilverlightSignalRTest.dll
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\obj\Debug\SilverlightSignalRTest.pdb
+C:\Users\arman\Desktop\VUProject\SilverlightSignalRTest\obj\Debug\XapCacheFile.xml
